@@ -11,6 +11,7 @@ Our airline faces challenges like environmental regulations, higher taxes, and r
 
 ## Datasets
 dataset: https://www.kaggle.com/code/prashantverma13/airline-data-analysis-using-sql
+
 Data from Kaggle stored in SQLite database with key tables:
 - `aircrafts_data`
 - `airports_data`
